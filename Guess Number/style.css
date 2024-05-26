@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    
+
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.resultParas{
+   font-size: larger;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin-top: 30px;
+
+}
+
+.back-color{
+    margin-top: 40vh;
+
+}
+
